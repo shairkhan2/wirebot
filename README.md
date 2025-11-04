@@ -47,7 +47,7 @@ A comprehensive Telegram bot for managing WireGuard VPN servers with a user-frie
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/wirebot.git
+git clone https://github.com/shairkhan2/wirebot.git
 cd wirebot
 ```
 
@@ -104,7 +104,7 @@ python start_bot.py
 1. **Clone and Setup**
 ```bash
 cd /root
-git clone <your-repo> wirebot  # or download files
+git clone https://github.com/shairkhan2/wirebot.git # or download files
 cd wirebot
 python3 -m venv venv
 source venv/bin/activate
