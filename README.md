@@ -53,6 +53,8 @@ cd wirebot
 
 2. **Install dependencies:**
 ```bash
+python3 -m venv venv
+source venv/bin/activate
 # Install Python dependencies
 pip install -r requirements.txt
 
@@ -60,8 +62,6 @@ pip install -r requirements.txt
 sudo apt update
 sudo apt install -y qrencode libqrencode-dev
 
-# For CentOS/RHEL
-# sudo yum install -y qrencode qrencode-devel
 ```
 
 3. **Configure environment variables:**
